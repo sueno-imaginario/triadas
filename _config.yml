@@ -36,13 +36,6 @@ plugins:
 
 defaults:
   - scope:
-      path: ""
-      type: "posts"
-    values:
-        layout: "post"
-        title: "My title"
-        author: "kkkkk"
-  - scope:
       path: "assets/img"
     values:
       image: true
