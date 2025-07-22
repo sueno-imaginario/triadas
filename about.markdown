@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abput"
+title: About
 permalink: /about/
 ---
 
