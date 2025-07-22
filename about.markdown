@@ -1,6 +1,6 @@
 ---
 layout: page
-title: О нас
+title: "О нас"
 permalink: /about/
 ---
 
