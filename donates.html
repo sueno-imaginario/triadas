@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Donates"
+title: "Донаты"
 date:   2025-07-16 22:05:32 +0300
 categories: posts post
 author: "kkkkk"
@@ -16,14 +16,3 @@ Donate is Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
 <!-- <script type="text/javascript">
   alert("Idi naxyi");
 </script> -->
-<script>
-  fetch('http://localhost:8000/database.php')  // Укажите правильный путь
-    .then(response => response.json())
-    .then(data => {
-      console.log(data);
-      document.getElementById('result').innerText = data.message;
-    })
-    .catch(error => console.error('Ошибка:', error));
-</script>
-
-<div id="result">Здесь будут данные...</div>
